@@ -1,0 +1,23 @@
+.top-nav{min-height: 3rem;
+    width: 100%;display:flex;align-items:center; justify-content: space-between;border-bottom: 1px solid #15151505;
+    &_left{list-style: none;display: flex;
+        li:nth {
+        padding-inline: 66px;
+    }}
+    &_right{list-style: none;display: flex;}
+li{padding-inline: 38px;}}
+.primary-color{color: #6A983C;}
+
+.mid-nav{min-height: 130px; display: flex;align-items: center;justify-content:space-between; .dropdown-cum-searchbar {display: flex; align-items: center;justify-content: space-between; background: #F9F9F9;
+border: 1px solid #D1D1D1;border-radius: 12px;width: 500px;height: 42px;padding-inline:1rem;
+.nav-form{display: flex;}
+.vl{height: 20px;border: 1px solid #D1D1D1;width: 0px;margin-inline: 1.5rem;background: #D1D1D1;}
+
+} input[type="text"]{border: none;height: 19px;width: 262px;color: #A9A9A9;}
+select{color: #6A983C;border: none;}
+.user-and-cart-icons{img{padding-inline-end: 37px;}}
+}
+.bottom-nav{
+
+    select{border: none;padding-inline: 0.8rem;color: #6A983C;cursor: pointer;}
+}
